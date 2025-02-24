@@ -1,3 +1,9 @@
 uv
+numpy
+ipykernel
 modin
-keras
+pillow
+torch
+torchvision
+matplotlib
+tqdm

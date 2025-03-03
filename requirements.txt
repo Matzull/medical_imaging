@@ -9,3 +9,6 @@ matplotlib
 tqdm
 opencv-python
 torchsummary
+seaborn
+scikit-learn
+albumentations

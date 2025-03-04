@@ -1,6 +1,7 @@
 uv
 numpy
 ipykernel
+ipywidgets
 modin
 pillow
 torch

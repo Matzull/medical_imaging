@@ -22,9 +22,8 @@ Welcome to the **Image Classification Project**! This repository is designed for
 │   │   ├── 3/              # Class 3 images
 │   │   ├── 4/              # Class 4 images
 │   ├── prep/               # Preprocessed images
-├── notebooks/
-│   ├── preprocess.ipynb    # Notebook for image preprocessing
-│   ├── main.ipynb          # Main notebook for model training
+├── preprocess.ipynb    # Notebook for image preprocessing
+├── main.ipynb          # Main notebook for model training
 ├── models/                 # Saved trained models
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
